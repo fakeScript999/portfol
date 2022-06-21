@@ -10,7 +10,7 @@ itsdangerous==1.1.0
 Jinja2==2.10.3
 MarkupSafe==1.1.1
 multidict==4.5.2
-numpy==1.17.1
+numpy==1.22.0
 virtualenv==16.7.4
 virtualenvwrapper-win==1.2.5
 websockets==6.0
